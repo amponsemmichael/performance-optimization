@@ -1,0 +1,6 @@
+2024-09-19T11:24:50.118Z  INFO 2372 --- [ELK-STACK-EXAMPLE] [http-nio-9090-exec-6] com.amponsem.elk.ElkStackApplication     : user found : User(id=1, name=Dennis)
+2024-09-19T11:24:57.332Z  INFO 2372 --- [ELK-STACK-EXAMPLE] [http-nio-9090-exec-7] com.amponsem.elk.ElkStackApplication     : user found : User(id=2, name=Samuel)
+2024-09-19T11:25:02.765Z  INFO 2372 --- [ELK-STACK-EXAMPLE] [http-nio-9090-exec-8] com.amponsem.elk.ElkStackApplication     : user found : User(id=3, name=Justice)
+2024-09-19T12:59:46.195Z  INFO 2372 --- [ELK-STACK-EXAMPLE] [http-nio-9090-exec-1] com.amponsem.elk.ElkStackApplication     : user found : User(id=4, name=mak)
+2024-09-19T12:59:50.907Z ERROR 2372 --- [ELK-STACK-EXAMPLE] [http-nio-9090-exec-4] com.amponsem.elk.ElkStackApplication     : User Not Found with ID : 5
+2024-09-19T12:59:55.494Z ERROR 2372 --- [ELK-STACK-EXAMPLE] [http-nio-9090-exec-5] com.amponsem.elk.ElkStackApplication     : User Not Found with ID : 7
