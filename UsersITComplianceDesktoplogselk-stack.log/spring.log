@@ -1,0 +1,37 @@
+2024-09-18T15:53:04.976Z  INFO 10640 --- [ELK-STACK-EXAMPLE] [main] com.amponsem.elk.ElkStackApplication     : Starting ElkStackApplication using Java 21 with PID 10640 (C:\Users\ITCompliance\Desktop\elk-stack-logging\target\classes started by ITCompliance in C:\Users\ITCompliance\Desktop\elk-stack-logging)
+2024-09-18T15:53:04.979Z  INFO 10640 --- [ELK-STACK-EXAMPLE] [main] com.amponsem.elk.ElkStackApplication     : No active profile set, falling back to 1 default profile: "default"
+2024-09-18T15:53:05.984Z  INFO 10640 --- [ELK-STACK-EXAMPLE] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 9898 (http)
+2024-09-18T15:53:05.999Z  INFO 10640 --- [ELK-STACK-EXAMPLE] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-09-18T15:53:05.999Z  INFO 10640 --- [ELK-STACK-EXAMPLE] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-09-18T15:53:06.059Z  INFO 10640 --- [ELK-STACK-EXAMPLE] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-09-18T15:53:06.059Z  INFO 10640 --- [ELK-STACK-EXAMPLE] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1011 ms
+2024-09-18T15:53:06.468Z  INFO 10640 --- [ELK-STACK-EXAMPLE] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 9898 (http) with context path '/'
+2024-09-18T15:53:06.474Z  INFO 10640 --- [ELK-STACK-EXAMPLE] [main] com.amponsem.elk.ElkStackApplication     : Started ElkStackApplication in 2.186 seconds (process running for 2.988)
+2024-09-18T15:54:55.871Z  INFO 23496 --- [ELK-STACK-EXAMPLE] [main] com.amponsem.elk.ElkStackApplication     : Starting ElkStackApplication using Java 21 with PID 23496 (C:\Users\ITCompliance\Desktop\elk-stack-logging\target\classes started by ITCompliance in C:\Users\ITCompliance\Desktop\elk-stack-logging)
+2024-09-18T15:54:55.873Z  INFO 23496 --- [ELK-STACK-EXAMPLE] [main] com.amponsem.elk.ElkStackApplication     : No active profile set, falling back to 1 default profile: "default"
+2024-09-18T15:54:56.744Z  INFO 23496 --- [ELK-STACK-EXAMPLE] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 9898 (http)
+2024-09-18T15:54:56.757Z  INFO 23496 --- [ELK-STACK-EXAMPLE] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-09-18T15:54:56.758Z  INFO 23496 --- [ELK-STACK-EXAMPLE] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-09-18T15:54:56.819Z  INFO 23496 --- [ELK-STACK-EXAMPLE] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-09-18T15:54:56.819Z  INFO 23496 --- [ELK-STACK-EXAMPLE] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 874 ms
+2024-09-18T15:54:57.206Z  INFO 23496 --- [ELK-STACK-EXAMPLE] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 9898 (http) with context path '/'
+2024-09-18T15:54:57.213Z  INFO 23496 --- [ELK-STACK-EXAMPLE] [main] com.amponsem.elk.ElkStackApplication     : Started ElkStackApplication in 1.809 seconds (process running for 2.554)
+2024-09-18T15:55:57.078Z  INFO 27032 --- [ELK-STACK-EXAMPLE] [main] com.amponsem.elk.ElkStackApplication     : Starting ElkStackApplication using Java 21 with PID 27032 (C:\Users\ITCompliance\Desktop\elk-stack-logging\target\classes started by ITCompliance in C:\Users\ITCompliance\Desktop\elk-stack-logging)
+2024-09-18T15:55:57.082Z  INFO 27032 --- [ELK-STACK-EXAMPLE] [main] com.amponsem.elk.ElkStackApplication     : No active profile set, falling back to 1 default profile: "default"
+2024-09-18T15:55:57.914Z  INFO 27032 --- [ELK-STACK-EXAMPLE] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 9090 (http)
+2024-09-18T15:55:57.927Z  INFO 27032 --- [ELK-STACK-EXAMPLE] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-09-18T15:55:57.927Z  INFO 27032 --- [ELK-STACK-EXAMPLE] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-09-18T15:55:57.972Z  INFO 27032 --- [ELK-STACK-EXAMPLE] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-09-18T15:55:57.973Z  INFO 27032 --- [ELK-STACK-EXAMPLE] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 817 ms
+2024-09-18T15:55:58.299Z  INFO 27032 --- [ELK-STACK-EXAMPLE] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 9090 (http) with context path '/'
+2024-09-18T15:55:58.307Z  INFO 27032 --- [ELK-STACK-EXAMPLE] [main] com.amponsem.elk.ElkStackApplication     : Started ElkStackApplication in 1.69 seconds (process running for 2.294)
+2024-09-18T15:57:16.001Z  INFO 27032 --- [ELK-STACK-EXAMPLE] [http-nio-9090-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-09-18T15:57:16.001Z  INFO 27032 --- [ELK-STACK-EXAMPLE] [http-nio-9090-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-09-18T15:57:16.004Z  INFO 27032 --- [ELK-STACK-EXAMPLE] [http-nio-9090-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2024-09-18T15:57:16.076Z  INFO 27032 --- [ELK-STACK-EXAMPLE] [http-nio-9090-exec-1] com.amponsem.elk.ElkStackApplication     : user found : User(id=1, name=Dennis)
+2024-09-18T15:57:23.485Z  INFO 27032 --- [ELK-STACK-EXAMPLE] [http-nio-9090-exec-3] com.amponsem.elk.ElkStackApplication     : user found : User(id=2, name=Samuel)
+2024-09-18T15:57:27.845Z  INFO 27032 --- [ELK-STACK-EXAMPLE] [http-nio-9090-exec-4] com.amponsem.elk.ElkStackApplication     : user found : User(id=3, name=Justice)
+2024-09-18T15:57:31.915Z  INFO 27032 --- [ELK-STACK-EXAMPLE] [http-nio-9090-exec-5] com.amponsem.elk.ElkStackApplication     : user found : User(id=4, name=mak)
+2024-09-18T15:57:37.875Z ERROR 27032 --- [ELK-STACK-EXAMPLE] [http-nio-9090-exec-6] com.amponsem.elk.ElkStackApplication     : User Not Found with ID : 5
+2024-09-18T15:57:42.246Z ERROR 27032 --- [ELK-STACK-EXAMPLE] [http-nio-9090-exec-7] com.amponsem.elk.ElkStackApplication     : User Not Found with ID : 7
+2024-09-18T15:57:47.051Z ERROR 27032 --- [ELK-STACK-EXAMPLE] [http-nio-9090-exec-8] com.amponsem.elk.ElkStackApplication     : User Not Found with ID : 5
